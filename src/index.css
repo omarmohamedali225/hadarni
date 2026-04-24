@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Cairo', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
